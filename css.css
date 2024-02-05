@@ -1,0 +1,11 @@
+.form{
+    display: inline-block;
+    margin: 20px;
+    background-color: rgb(243, 240, 255);
+    font-size: 25px;
+}
+
+.error{
+    font-size: 20px;
+    color: red;
+}
